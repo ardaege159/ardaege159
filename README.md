@@ -1,9 +1,6 @@
-### Hi, I'm Arda Ege Er 👋
+### Hi, I'm Arda Ege Er
 
 Electrical & Electronics Engineering student at Boğaziçi University. I build data-heavy products with LLMs in the loop, and I care about making the model's output checkable.
-
-- 📍 Istanbul, Türkiye
-- 🔭 Next up: an evaluation set for Turkish customer-support assistants
 
 #### Featured project
 
